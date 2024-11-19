@@ -1,0 +1,30 @@
+.quality-report {
+    text-align: center;
+  }
+  
+  .gauge-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px 0;
+  }
+  
+  .gauge img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .quality-values h3 {
+    color: #00d1ff;
+  }
+  
+  .report-buttons button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 10px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
